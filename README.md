@@ -1,7 +1,7 @@
 # 💻 Hossein | Full-Stack Developer 🚀
 
 ## 👋 About Me
-Hey there! I'm **Hossein**, a passionate Full-Stack Developer with expertise in both **.NET C#** and **Django**. I thrive on building innovative solutions that bridge the gap between elegant design and robust functionality. 🚀  
+Hey there! I'm **Hossein**, a passionate Full-Stack Developer with expertise in both **.NET C#** and **Django**. I thrive on building innovative solutions that bridge the gap between elegant design[...]
 When I'm not coding, you'll probably find me learning new tech, solving problems, or contributing to open-source projects.  
 
 - 🌍 **Location:** [Tehran], Iran 🇮🇷  
@@ -40,6 +40,9 @@ Here are the tools and technologies I work with regularly:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H0sin&show_icons=true&theme=radical" width="400px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H0sin&theme=radical" width="400px" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=H0sin&theme=radical&no-bg=true&no-frame=true&row=1&column=6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H0sin&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -50,19 +53,37 @@ Here are some of the projects I'm proud to showcase:
 
 ### 🌟 [**Project Wireguard Panel 1**](#)
 🚀 **Description:** A powerful web app built with ASP.NET Core and React.js to handle For Accounting Wireguard In Linux By Gre Tunel.  
-🔧 **Tech Stack:** ASP.NET Core, PostgreSQL, Docker , Rabbit Mq
+🔧 **Tech Stack:** ASP.NET Core, PostgreSQL, Docker , Rabbit Mq  
+✅ **Highlights:**
+- Automated Linux networking (WireGuard peers, GRE tunnels, routing) via safe scripts and APIs
+- Real‑time usage metering and per‑client accounting with scheduled aggregation jobs
+- Role‑based admin panel with audit logs and secure access controls
+- Async background processing with RabbitMQ (retries, dead‑letter queues)
+- Containerized deployment with NGINX reverse proxy and zero‑downtime updates
 
 ---
 
 ### 🌟 [**Project Telegram Bot 2**](#)
-🌐 **Description:** Telegram Market Place For Apple id And Digitall Services 
-🔧 **Tech Stack:** C#,Docker,.Net,Redis,Sql_Server,Js
+🌐 **Description:** Telegram Market Place For Apple id And Digitall Services  
+🔧 **Tech Stack:** C#,Docker,.Net,Redis,Sql_Server,Js  
+✅ **Highlights:**
+- End‑to‑end order flow inside Telegram (inline keyboards, payments, notifications)
+- Inventory and license/code delivery pipeline with background workers
+- Webhook reliability with idempotency keys and message de‑duplication
+- Redis caching and rate‑limiting for performance and abuse protection
+- Structured logging and traceable order lifecycle for quick troubleshooting
 
 ---
 
 ### 🌟 [**Project chiz_market 3**](#)
-📱 **Description:** Shoping Digitall Service
-🔧 **Tech Stack:** Django, Docker , PosgressSql
+📱 **Description:** Shoping Digitall Service  
+🔧 **Tech Stack:** Django, Docker , PosgressSql  
+✅ **Highlights:**
+- Modular Django design (catalog, cart, checkout, orders) with clean separation
+- Robust PostgreSQL schema with constraints and safe transactional operations
+- Custom admin tools for content and order management with granular permissions
+- Dockerized local/prod environment with NGINX serving static/media assets
+- Efficient queries and pagination for a smooth browsing experience
 
 ---
 
