@@ -6,7 +6,6 @@ When I'm not coding, you'll probably find me learning new tech, solving problems
 
 - 🌍 **Location:** [Tehran], Iran 🇮🇷  
 - 🔭 **Currently Working On:** [Wireguard Panel]  
-- 🌱 **Learning:** [Fast Api]  
 - ⚡ **Fun Fact:** I can debug a problem faster than I can decide what to eat!  
 
 ---
@@ -23,6 +22,7 @@ Here are the tools and technologies I work with regularly:
 ### ⚙️ Back-End
 - **C# | ASP.NET Core**
 - **Django | Python**
+- **FastApi | Python**
 
 ### 🗄️ Databases
 - **PostgreSQL | MySQL | MongoDB | SQL_SERVER**
